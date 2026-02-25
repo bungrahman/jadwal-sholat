@@ -43,6 +43,7 @@ Anda dapat menyisipkan fitur ini ke dalam halaman, postingan, atau widget menggu
 - **[jadwal_sholat]**: Menampilkan paket lengkap (Pencarian, Gambar, Jam, Jadwal, dan Doa).
 - **[jadwal_sholat_only]**: Hanya menampilkan tabel jadwal sholat untuk kota yang dipilih.
 - **[doa_harian]**: Hanya menampilkan bagian doa harian acak.
+- **[jadwal_sholat_marquee]**: Menampilkan jadwal sholat dalam bentuk running text (marquee) dengan desain pill yang modern dan responsif.
 
 ## Integrasi API
 Plugin ini ditenagai oleh **API Muslim v2 - MyQuran**. API ini menyediakan data waktu sholat yang akurat dan terpercaya untuk berbagai wilayah di Indonesia.
